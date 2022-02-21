@@ -1,0 +1,4 @@
+name: Lobby
+version: '${project.version}'
+main: de.rusticprism.lobby.Lobby
+description: A Bungee Lobby Plugin
